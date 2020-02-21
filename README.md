@@ -75,6 +75,7 @@ Note: Max Lag = -2971 @ Correlation Value = 0.0857
 **Cross-Correlation of Rain Rate**
 
 Note: Max Lag = 1 @ Correlation Value = 0.4306
+
 ![](https://github.com/Branth1/Project2/blob/master/Coorelation%20Rain(0.4306)lag(1).png?raw=true)
 
 **Monthly Average Wind Speed**
@@ -88,11 +89,15 @@ Note: Max Lag = 1 @ Correlation Value = 0.4306
 ## Conclusions
 From the analysis conducted, the following conclusions were made:
 
-1. 
+* When looking at the first two plots, we can see that majority of the time throughout the year these sites experience wind but no rain. When analyzing the data it was normalized and the significance of wind/ rain values was set to exclude anything that was under 30%. From these graphs we can also see that there are minimal times of rain without wind in either site.  
 
-2. 
+* Now looking at the Correlation graph, we can see the possible error described earlier in the wind graphs. However, if we infer that the data were to follow similar trends to what is visible, it can be said that there is truly a minimal coorelation for the wind between the two sites. The max correlation value for wind is seen to be 0.0857, indicating a nonexistant relationship between the two sets of data. Not to mention the fact that the time delay is about 18 weeks. These sites are only about 36.7 miles from eachother. This makes some sense considering the previous graphs showed that these sites are typically always windy.  
 
-3. 
+However, When we interpret the correlation graph for rain rate we get a slightly different result. The highest correlation occuring with a lag of one hour and a max correlation value of 0.4306. Although this is still a fairly low relationship strength, I believe it would warrant further testing. From this we can say that the Oregon Shelf experiences similar rain rates about an hour after the Oregon Offshore location with some a correlation factor of 0.4306.
+
+There does not appear to be any relation between the time lag for wind speed and rain rate. It seems to always be windy at these two sites. 
+
+*  
 
 4. 
 
