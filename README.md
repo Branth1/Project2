@@ -47,7 +47,7 @@ Green = Wind but No Rain
 Red = Rain and No Wind
 Yellow = Rain and Wind**
 
-![](Oregon Shelf Data.png)
+![](https://github.com/Branth1/Project2/blob/master/Oregon%20Shelf%20Data.png?raw=true)
 
 **Summer**
 
