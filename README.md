@@ -98,7 +98,9 @@ There does not appear to be any relation between the time lag for wind speed and
 
 * When we look at the figure showing the average wind speed for the year a few things can be noticed. Although there did not appear to be any trend to wind from site to site, we can see there is a trend throughout the year. Both sites follow the same average wind patterns. The highest occuring in January, decreasing until about April before dropping to the lowest point of the year in August. It then increases back up going into winter. However, the highest wind rate is still seen in January at the Oregon Offshore site with a speed of about 6.7 m/s. 
 
-* 
+* Finally looking at the average rain rate between each site. It can again be seen that there appears to be a strong relationship between the patterns of each site throughout the year. The highest rain rate occurs around early February and will begin decreasing with a few spikes until the lowest values seen in early August, late July. It then peaks again in early September. The highest rain rate appears to be about 0.13 mm/hr and the lowest about 0.01 mm/hr. 
+
+* When taking both of these into consideration it would appear that August is the calmest time of year with the least wind and rain at both sites. Although we did not see a correlation for wind with the analysis as performed, this would have occured during the area that is missing in the wind correlation graph. This is a good example as to why variations of data analysis should be performed. 
 
 ## References
 
