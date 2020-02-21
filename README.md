@@ -91,18 +91,14 @@ From the analysis conducted, the following conclusions were made:
 
 * When looking at the first two plots, we can see that majority of the time throughout the year these sites experience wind but no rain. When analyzing the data it was normalized and the significance of wind/ rain values was set to exclude anything that was under 30%. From these graphs we can also see that there are minimal times of rain without wind in either site.  
 
-* Now looking at the Correlation graph, we can see the possible error described earlier in the wind graphs. However, if we infer that the data were to follow similar trends to what is visible, it can be said that there is truly a minimal coorelation for the wind between the two sites. The max correlation value for wind is seen to be 0.0857, indicating a nonexistant relationship between the two sets of data. Not to mention the fact that the time delay is about 18 weeks. These sites are only about 36.7 miles from eachother. This makes some sense considering the previous graphs showed that these sites are typically always windy.  
+* Now looking at the Correlation graph, we can see the possible error described earlier in the wind graphs. However, if we infer that the data were to follow similar trends to what is visible, it can be said that there is truly a minimal coorelation for the wind between the two sites. The max correlation value for wind is seen to be 0.0857, indicating a nonexistant relationship between the two sets of data. Not to mention the fact that the time delay is about 18 weeks. These sites are only about 36.7 miles from eachother. This makes some sense considering the previous graphs showed that these sites are typically always windy. 
 
-However, When we interpret the correlation graph for rain rate we get a slightly different result. The highest correlation occuring with a lag of one hour and a max correlation value of 0.4306. Although this is still a fairly low relationship strength, I believe it would warrant further testing. From this we can say that the Oregon Shelf experiences similar rain rates about an hour after the Oregon Offshore location with some a correlation factor of 0.4306.
-
+*However, When we interpret the correlation graph for rain rate we get a slightly different result. The highest correlation occuring with a lag of one hour and a max correlation value of 0.4306. Although this is still a fairly low relationship strength, I believe it would warrant further testing. From this we can say that the Oregon Shelf experiences similar rain rates about an hour after the Oregon Offshore location with some a correlation factor of 0.4306.
 There does not appear to be any relation between the time lag for wind speed and rain rate. It seems to always be windy at these two sites. 
 
-*  
+* When we look at the figure showing the average wind speed for the year a few things can be noticed. Although there did not appear to be any trend to wind from site to site, we can see there is a trend throughout the year. Both sites follow the same average wind patterns. The highest occuring in January, decreasing until about April before dropping to the lowest point of the year in August. It then increases back up going into winter. However, the highest wind rate is still seen in January at the Oregon Offshore site with a speed of about 6.7 m/s. 
 
-4. 
-
-5. 
-
+* 
 
 ## References
 
